@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|c:\\users\\lc\\desktop\\arko@renew\\backend\\backend\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|c:\\users\\lc\\desktop\\arko@renew\\backend\\backend\\dal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\dal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|c:\\users\\lc\\desktop\\arko@renew\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|c:\\users\\lc\\desktop\\arko@renew\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|c:\\users\\lc\\desktop\\arko@renew\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F30167A7-38D3-4102-9A74-FF6F350C4AF0}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\DAL\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "BackEnd\\DAL\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\DAL\\Entity\\User.cs",
+              "RelativeToolTip": "BackEnd\\DAL\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:47:53.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\Model\\UserModel.cs",
+              "RelativeToolTip": "BackEnd\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:47:29.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\appsettings.json",
+              "RelativeToolTip": "BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T18:35:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackEnd.csproj",
+              "DocumentMoniker": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\BackEnd.csproj",
+              "RelativeDocumentMoniker": "BackEnd\\BackEnd.csproj",
+              "ToolTip": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\BackEnd.csproj",
+              "RelativeToolTip": "BackEnd\\BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T18:17:05.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\LC\\Desktop\\arko@renew\\BackEnd\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:07:23.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

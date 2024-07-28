@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Host=localhost;Database=arkoDotDB;Username=postgres;Password=postgres" Npgsql.EntityFrameworkCore.PostgreSQL -c DBContext -o DAL/Entity --context-dir DAL/DBContext --data-annotations --force
